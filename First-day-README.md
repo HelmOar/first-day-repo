@@ -4,7 +4,7 @@ To pracitce writing a README
 
 ## A Practice README
 
-This is a practice README to help me understand the format
+This is a practice README to help me understand the format. This README.md has been edited locally. 
 
 ## Getting Started
 
